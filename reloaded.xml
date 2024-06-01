@@ -31,7 +31,9 @@
           fetch="https://gitlab.com/" />
 
   <!-- Manifest -->
-  <project path="manifest" name="manifest" remote="reloaded" />
+  <project path="manifest" name="manifest" remote="reloaded" >
+    <linkfile src="merge-tag.sh" dest="merge-tag.sh" />
+  </project>
 
   <remove-project name="device/qcom/common" />
   <remove-project name="device/qcom/qssi" />
