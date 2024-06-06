@@ -64,7 +64,6 @@
   <remove-project name="platform/packages/apps/Launcher3" />
   <remove-project name="platform/packages/apps/Settings" />
   <remove-project name="platform/packages/apps/ThemePicker" />
-  <remove-project name="platform/packages/apps/WallpaperPicker2" />
   <remove-project name="platform/packages/modules/Bluetooth" />
   <remove-project name="platform/packages/modules/DeviceLock" />
   <remove-project name="platform/packages/services/Telecomm" />
@@ -126,7 +125,6 @@
   <project path="packages/apps/ReloadedXtras" name="packages_apps_ReloadedXtras" remote="reloaded" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="reloaded" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="reloaded" />
-  <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="reloaded" />
   <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="reloaded" />
   <project path="packages/modules/DeviceLock" name="packages_modules_DeviceLock" remote="reloaded" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="reloaded" />
