@@ -63,7 +63,6 @@
   <remove-project name="platform/hardware/qcom/wlan" />
   <remove-project name="platform/packages/apps/Launcher3" />
   <remove-project name="platform/packages/apps/Settings" />
-  <remove-project name="platform/packages/apps/ThemePicker" />
   <remove-project name="platform/packages/modules/Bluetooth" />
   <remove-project name="platform/packages/modules/DeviceLock" />
   <remove-project name="platform/packages/services/Telecomm" />
@@ -124,7 +123,6 @@
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="reloaded" />
   <project path="packages/apps/ReloadedXtras" name="packages_apps_ReloadedXtras" remote="reloaded" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="reloaded" />
-  <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="reloaded" />
   <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" remote="reloaded" />
   <project path="packages/modules/DeviceLock" name="packages_modules_DeviceLock" remote="reloaded" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="reloaded" />
@@ -154,6 +152,7 @@
   <project path="vendor/qcom/opensource/vibrator" name="vendor_qcom_opensource_vibrator" remote="reloaded" />
   <project path="vendor/qcom/sdclang" name="ThankYouMario/proprietary_vendor_qcom_sdclang" remote="github" revision="disabled" clone-depth="1" />
   <project path="vendor/reloaded" name="vendor_reloaded" remote="reloaded" />
+  <project path="vendor/reloaded/apps/ReloadedThemePicker" name="vendor_reloaded_apps_ReloadedThemePicker" remote="reloaded" />
   <project path="vendor/reloaded/certification" name="vendor_reloaded_certification" remote="reloaded-gitea" />
 
   <!-- HALs -->
