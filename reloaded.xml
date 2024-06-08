@@ -136,7 +136,7 @@
   <project path="system/update_engine" name="system_update_engine" remote="reloaded" />
   <project path="tools/extract-utils" name="tools_extract-utils" remote="reloaded" />
   <project path="vendor/google/pixel" name="vendor_google_pixel" remote="reloaded" />
-  <project path="vendor/partner_gms" name="vendor_partner-gms" remote="reloaded-gitlab" />
+  <project path="vendor/partner_gms" name="vendor_partner-gms" remote="reloaded-gitlab" clone-depth="1"  />
   <project path="vendor/qcom/common" name="vendor_qcom_common" remote="reloaded" />
   <project path="vendor/qcom/opensource/commonsys-intf/bluetooth" name="vendor_qcom_opensource_commonsys-intf_bluetooth" remote="reloaded" />
   <project path="vendor/qcom/opensource/commonsys-intf/display" name="vendor_qcom_opensource_commonsys-intf_display" remote="reloaded" />
